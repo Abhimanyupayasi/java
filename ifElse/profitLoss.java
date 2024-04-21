@@ -1,5 +1,8 @@
-import java.util.Scanner;
-class profit {
+package ifElse;
+
+import java.util.*;
+
+public class profitLoss {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("enter cost price : ");
@@ -20,5 +23,5 @@ class profit {
         } 
         if(cp==sp) System.out.println("no profit no loss");   
      }
+    
 }
-
