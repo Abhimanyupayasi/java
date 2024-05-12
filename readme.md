@@ -18,8 +18,8 @@ I'll be updating this repository with the best notes from my learning journey. S
 I've been learning from many different places. Here are some of the resources I've found most helpful:
 ## Paid Resources Free For You 🆓
 - [Basic DSA With Piyush Garg Sir](https://codedamn.com/learn/data-structures-algorithms/fundamentals/basics-of-binary-and-decimal-number-system.CyHvNZ2fwePuQFZCsshpU)
-<!-- - [Linear Data Structures and Algorithms With Piyush Garg Sir](https://codedamn.com/learn/linear-data-structures?coupon=FREE100)
-- [Non-Linear Data Structures and Algorithms With Piyush Garg Sir](https://codedamn.com/learn/non-linear-data-structures?coupon=FREE100)
+[Linear Data Structures and Algorithms With Piyush Garg Sir](https://codedamn.com/learn/linear-data-structures?coupon=FREE100)
+<!-- - [Non-Linear Data Structures and Algorithms With Piyush Garg Sir](https://codedamn.com/learn/non-linear-data-structures?coupon=FREE100)
 - [Algorithms With Piyush Garg Sir](https://codedamn.com/learn/mastering-algorithms?coupon=FREE100) -->
 
 ## Paid Resources
